@@ -1,2 +1,2 @@
 # GuessMyNumber
-A console base game that uses binary search to guess a number
+A console based game that uses binary search algorithm to guess your number
